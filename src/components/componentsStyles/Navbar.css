@@ -1,0 +1,16 @@
+.nav{
+   background-color: #0E0D0D;
+   justify-content: center;
+
+}
+.logo{
+    width: 6rem;
+}
+li{
+    list-style:none;
+    justify-content: flex-end;
+}
+ul{
+    display: flex;
+
+}
